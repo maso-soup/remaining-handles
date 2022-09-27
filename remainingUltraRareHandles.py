@@ -27,6 +27,7 @@ def get_remaining_handles():
 
     remaining = []
     threads= []
+    #All valid characters are "abcdefghijklmnopqrstuvwxyz1234567890-_." Modify the variable below to check what interests you
     possible_characters = "abcdefghijklmnopqrstuvwxyz"
     possible_handles = []
 
