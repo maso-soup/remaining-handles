@@ -1,4 +1,4 @@
-# remaining-handles
+# How to Use
 
 Run via command line: python ./remainingUltraRareHandles.py
 
