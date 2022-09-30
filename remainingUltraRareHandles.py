@@ -3,7 +3,7 @@ from blockfrost import ApiError, ApiUrls, BlockFrostApi
 
 #BlockFrost API which allows for querying the Cardano blockchain
 api = BlockFrostApi(
-    project_id='mainnetJZdBd2lCOXfHSI9ENhubJYAZ5ThYpXao',
+    project_id='sign up for free one on blockfrost.io',
     base_url=ApiUrls.mainnet.value,
 )
 
